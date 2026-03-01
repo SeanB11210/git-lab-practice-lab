@@ -1,8 +1,8 @@
-Roses are red
-Violets are blue
-Friends are a treat
-I had no clue
-533
-734
-7315
-1324
+Roses are red (3)
+Violets are blue (3)
+Friends are a treat (4)
+I had no clue (4)
+533 RAR
+734 VAB
+7315 FAAT
+1324 IHNC
